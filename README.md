@@ -1,4 +1,5 @@
 🍽️ Restaurant Order Analysis – SQL Portfolio Project
+
 📌 About the Project
 This project is a data-driven analysis of a restaurant’s order data using SQL. Inspired by a Maven Analytics portfolio challenge, it focuses on uncovering insights into customer ordering behavior, popular menu items, and operational performance. The entire project was completed using MySQL and structured for clarity, accuracy, and real-world applicability.
 
