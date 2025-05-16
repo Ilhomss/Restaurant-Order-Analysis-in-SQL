@@ -25,4 +25,8 @@ Through SQL queries, these insights can help streamline kitchen efficiency, impr
 - **Maven Analytics Dataset**: A realistic dataset that simulates typical restaurant order data, perfect for demonstrating business-relevant skills.
 
 ## ✅ Metrics of Success
-- Successfully queried and analyzed **1000+ rows** of order data.
+- Used MySQL to dig into over 1,000 restaurant orders.
+- Analyzed a dataset of restaurant orders and categorized food preferences across 4 cuisines
+- Found that **Italian and Mexican** dishes were most popular, each with 9 different dishes ordered
+- Discovered **Chicken Tacos** as the most ordered dish overall; **Hamburgers** were the least ordered — guiding menu optimization
+- Other metrics such as **overall number of orders**, **Average price of foods by Country**, **the least and most expansive couisine** and others
